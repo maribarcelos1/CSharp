@@ -1,0 +1,14 @@
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/bin/Debug/netcoreapp2.2/HelloFromWebAPI.deps.json
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/bin/Debug/netcoreapp2.2/HelloFromWebAPI.runtimeconfig.json
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/bin/Debug/netcoreapp2.2/HelloFromWebAPI.runtimeconfig.dev.json
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/bin/Debug/netcoreapp2.2/HelloFromWebAPI.dll
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/bin/Debug/netcoreapp2.2/HelloFromWebAPI.pdb
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.csprojAssemblyReference.cache
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.csproj.CoreCompileInputs.cache
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.RazorAssemblyInfo.cache
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.RazorAssemblyInfo.cs
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.AssemblyInfoInputs.cache
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.AssemblyInfo.cs
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.RazorTargetAssemblyInfo.cache
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.dll
+/home/jzes/lab/dotnet/CSharp/HelloFromWebAPI/obj/Debug/netcoreapp2.2/HelloFromWebAPI.pdb
